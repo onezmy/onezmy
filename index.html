@@ -1,8 +1,35 @@
-<p>Hello 大家好</p>
-<p>我是霸都丶傲天，这是我的个人网站。 </p>
-<p>很高兴你来到这里, 你可以在以下的网站找到我</p>
+<!DOCTYPE html>
+<html>
 
-<ul>
-  <li> <a href="https://www.zhihu.com/people/AJLoveChina">知乎</a> </li>
-  <li> <a href="http://hejie.nigeerhuo.com">我的博客(已经不更细了,现在在知乎写文章)</a> </li>
-</ul>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+
+    <title>高级感满满的滚轮视差相应效果</title>
+    <link rel="stylesheet" href="./css/background.css">
+</head>
+
+<body>
+    <div class="bg">
+        <span>Wellcome</span>
+    </div>
+    <h1>欢迎来到<br>艾恩小灰灰的前端世界</h1>
+    <script type="text/javascript">
+        // 获取背景对象
+        const bg=document.querySelector(".bg");
+        // 监听滚轮事件
+        document.addEventListener("scroll",function(){
+            // 获取当前滚轮的位置
+            const scrollY=window.scrollY;
+            if(scrollY!=0){
+                // 滚轮位置不等于0时,修改背景的定位加上滚轮的值
+                bg.style.backgroundPosition="calc(50% + "+scrollY+"px) calc(50% + "+scrollY+"px)";
+            }else{
+                // 否则清空背景的定位
+                bg.style.backgroundPosition="";
+            }
+        })
+    </script>
+</body>
+
+</html>
