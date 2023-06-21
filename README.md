@@ -27,4 +27,4 @@
 ### Connect with Me:
 📰 LinkedIn: [linkedin.com/in/sam-zhang-mengyu](https://www.linkedin.com/in/sam-zhang-mengyu/)\
 🎮 Steam: [onezmy](https://steamcommunity.com/id/onezmy/)\
-📧 Email: [sam.zhang.069@gmail.com](sam.zhang.069@gmail.com)
+📧 Email: sam.zhang.069@gmail.com
