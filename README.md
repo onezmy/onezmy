@@ -14,7 +14,7 @@
 😄 Pronouns: He/His.
 
 ****
-![onezmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=onezmy&show_icons=true&theme=tokyonight)
+![](https://raw.githubusercontent.com/onezmy/onezmy/main/assets/github-contribution-grid-snake.svg)              
 ****
 
 ### Skills
