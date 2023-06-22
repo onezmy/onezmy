@@ -14,9 +14,6 @@
 😄 Pronouns: He/His.
 
 ****
-![](https://raw.githubusercontent.com/onezmy/onezmy/main/assets/github-contribution-grid-snake.svg)              
-****
-
 ### Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onezmy&layout=compact&theme=shadow_green)
 - Programming Languages:
