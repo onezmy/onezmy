@@ -13,7 +13,7 @@
 🌱 I’m currently working on personal projects to explore Stable Diffusion with LoRA.\
 👾 I'm currently struggling with Dead Cells 5 Boss Cells.\
 😄 Pronouns: He/His.\
-📘 Latest Resume [HERE]() 
+📘 Latest Resume [HERE](https://github.com/onezmy/onezmy/blob/b77b7c24933fb18f88ce5e6d98cdc9e68b9d6efe/Resume_MZ_ds.pdf) 
 
 ****
 ### Skills
