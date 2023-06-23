@@ -8,9 +8,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      pull-requests: write
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v2
