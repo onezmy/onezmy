@@ -1,7 +1,7 @@
 ## Hi there, I am Mengyu Zhang 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onaezmy&label=Profile%20Views&color=brightgreen&style=flat" alt="onezmy" /> </p>
 
-📘 Latest Resume: [Data Science](https://github.com/onezmy/onezmy/blob/b77b7c24933fb18f88ce5e6d98cdc9e68b9d6efe/Resume_MZ_ds.pdf) | 
+📘 Latest Resume [HERE](https://github.com/onezmy/onezmy/blob/b77b7c24933fb18f88ce5e6d98cdc9e68b9d6efe/Resume_MZ_ds.pdf) 
 
 ### Education
 🎓 M.S.E Data Science | Johns Hopkins University\
