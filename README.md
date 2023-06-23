@@ -1,6 +1,8 @@
 ## Hi there, I am Mengyu Zhang 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onaezmy&label=Profile%20Views&color=brightgreen&style=flat" alt="onezmy" /> </p>
 
+📘 Latest Resume [HERE](https://github.com/onezmy/onezmy/blob/b77b7c24933fb18f88ce5e6d98cdc9e68b9d6efe/Resume_MZ_ds.pdf) 
+
 ### Education
 🎓 M.S.E Data Science | Johns Hopkins University\
 🎓 B.S. Applied Science & Statistics | University of California, Los Angeles\
@@ -13,7 +15,7 @@
 🌱 I’m currently working on personal projects to explore Stable Diffusion with LoRA.\
 👾 I'm currently struggling with Dead Cells 5 Boss Cells.\
 😄 Pronouns: He/His.\
-📘 Latest Resume [HERE](https://github.com/onezmy/onezmy/blob/b77b7c24933fb18f88ce5e6d98cdc9e68b9d6efe/Resume_MZ_ds.pdf) 
+
 
 ****
 ### Skills
@@ -76,7 +78,7 @@
 
 ### Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=#white)](https://www.linkedin.com/in/sam-zhang-mengyu/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=#white)](https://www.linkedin.com/in/sam-zhang-mengyu/)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=#white)](https://steamcommunity.com/id/onezmy/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=#white)](https://github.com/onezmy)\
 📧 Email: sam.zhang.069@gmail.com
 
