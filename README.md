@@ -10,12 +10,10 @@
 
 ****
 ### About Me
-🔭 I'm currently seeking fulltime DS/DA/SDE roles for New Grad/Entry Level.\
+🔭 I'm currently seeking full-time DS/DA/SDE roles for New Grad/Entry Level.\
 ✏️ I'm currently learning AWS Certified Cloud Practitioner Certificate Exam.\
 🌱 I’m currently working on personal projects to explore Stable Diffusion with LoRA.\
 👾 I'm currently struggling with Dead Cells 5 Boss Cells.\
-😄 Pronouns: He/His.\
-
 
 ****
 ### Skills
