@@ -15,7 +15,6 @@
 
 
 ****
-![](https://raw.githubusercontent.com/onezmy/onezmy/main/assets/github-contribution-grid-snake.svg)
 
 ****
 ### Skills
