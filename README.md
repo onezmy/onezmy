@@ -15,9 +15,11 @@
 
 
 ****
-![Contributions in 3D](/profile-3d-contrib/profile-night-rainbow.svg)
-
-![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=onezmy&theme=vue)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="/output/github-snake.svg">
+  <img alt="github-snake" src="/output/github-snake.svg">
+</picture>
 
 ****
 ### Skills
