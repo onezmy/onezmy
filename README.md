@@ -12,7 +12,8 @@
 ✏️ I'm currently learning AWS Certified Cloud Practitioner Certificate Exam.\
 🌱 I’m currently working on personal projects to explore Stable Diffusion with LoRA.\
 👾 I'm currently struggling with Dead Cells 5 Boss Cells.\
-😄 Pronouns: He/His.
+😄 Pronouns: He/His.\
+📘 Latest Resume [HERE]() 
 
 ****
 ### Skills
