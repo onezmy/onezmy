@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  triage:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: read
