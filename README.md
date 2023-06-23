@@ -76,7 +76,8 @@
 
 ### Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=#white)](https://www.linkedin.com/in/sam-zhang-mengyu/)
-[![steam](https://img.shields.io/badge/steam-000000?style=flat&logo=steam&logoColor=#white)](https://steamcommunity.com/id/onezmy/)\
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=#white)](https://www.linkedin.com/in/sam-zhang-mengyu/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=#white)](https://github.com/onezmy)\
 📧 Email: sam.zhang.069@gmail.com
 
   ****
