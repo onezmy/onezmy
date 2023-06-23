@@ -13,6 +13,12 @@
 👾 I'm currently struggling with Dead Cells 5 Boss Cells.\
 😄 Pronouns: He/His.
 
+
+****
+![Contributions in 3D](/profile-3d-contrib/profile-night-rainbow.svg)
+
+![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=onezmy&theme=vue)
+
 ****
 ### Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onezmy&layout=compact&theme=shadow_green)
