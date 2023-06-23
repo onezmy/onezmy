@@ -21,7 +21,7 @@
 - Programming Languages:
   
      ![Python](https://img.shields.io/badge/Python-3373A7?style=flat&logo=python&logoColor=white)
-![rstudio](https://img.shields.io/badge/Rstudio-75AADB?style=flat&logo=R&logoColor=#white)
+![R](https://img.shields.io/badge/R-75AADB?style=flat&logo=R&logoColor=#white)
 ![Java](https://img.shields.io/badge/java-red?style=flat&logoColor=#white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=#white)
 
