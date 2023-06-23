@@ -16,6 +16,8 @@
 
 ****
 
+<img align="center" src="https://raw.githubusercontent.com/onezmy/onezmy/master/github-contribution-grid-snake-dark.svg" />
+
 ****
 ### Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onezmy&layout=compact&theme=shadow_green)
