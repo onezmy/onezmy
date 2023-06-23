@@ -1,4 +1,5 @@
 ## Hi there, I am Mengyu Zhang 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=onaezmy&label=Profile%20Views&color=brightgreen&style=flat" alt="onezmy" /> </p>
 
 ### Education
 🎓 M.S.E Data Science | Johns Hopkins University\
@@ -14,7 +15,6 @@
 😄 Pronouns: He/His.
 
 ****
-
 ### Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onezmy&layout=compact&theme=shadow_green)
 - Programming Languages:
@@ -63,11 +63,13 @@
   
 - Interests:
   Machine Learning, Deep Learning, Data Mining, Optimization, Data Science, Data Analysis, Data Visualization, Data Structure
+
   
+  ![Contributions in 3D](/profile-3d-contrib/profile-south-season-animate.svg)
 ****
 
 ### Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=#white)](https://www.linkedin.com/in/sam-zhang-mengyu/)
-[![steam](https://img.shields.io/badge/steam-000000?style=flat&logo=steam&logoColor=#white)](https://steamcommunity.com/id/onezmy/)\
+[![steam](https://img.shields.io/badge/steam-000000?style=flat&logo=steam&logoColor=#white)](https://steamcommunity.com/id/onezmy/)
 📧 Email: sam.zhang.069@gmail.com
  
