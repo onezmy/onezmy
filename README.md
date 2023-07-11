@@ -2,7 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onaezmy&label=Profile%20Views&color=brightgreen&style=flat" alt="onezmy" /> </p>
 
 📘 Latest Resume [HERE](https://github.com/onezmy/onezmy/blob/b77b7c24933fb18f88ce5e6d98cdc9e68b9d6efe/Resume_MZ_ds.pdf) 
-
+### Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=#white)](https://www.linkedin.com/in/sam-zhang-mengyu/)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=#white)](https://steamcommunity.com/id/onezmy/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=#white)](https://github.com/onezmy)\
+📧 Email: sam.zhang.069@gmail.com
 ### Education
 🎓 M.S.E Data Science | Johns Hopkins University\
 🎓 B.S. Applied Science & Statistics | University of California, Los Angeles\
@@ -71,14 +75,6 @@
       ![Latex](https://img.shields.io/badge/LaTex-008080?style=flat&logo=latex&logoColor=white)
 - Interests:
   Machine Learning, Deep Learning, Data Mining, Optimization, Data Science, Data Analysis, Data Visualization, Data Structure
-
-  ****
-
-### Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=#white)](https://www.linkedin.com/in/sam-zhang-mengyu/)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=#white)](https://steamcommunity.com/id/onezmy/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=#white)](https://github.com/onezmy)\
-📧 Email: sam.zhang.069@gmail.com
 
   ****
   ![Contributions in 3D](/profile-3d-contrib/profile-south-season-animate.svg)
