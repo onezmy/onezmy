@@ -16,8 +16,8 @@
 ****
 ### About Me
 
-🎓 M.S.E Data Science | Johns Hopkins University
-🎓 B.S. Applied Science & Statistics | University of California, Los Angeles
+🎓 M.S.E Data Science | Johns Hopkins University\
+🎓 B.S. Applied Science & Statistics | University of California, Los Angeles\
 📑 Data Science Certificate | UCLA Extension
 
 
