@@ -6,7 +6,7 @@
 ### Resume 
 📗 Resume for [**Data Science Roles**](Resume_MZ_ds.pdf) \
 📘 Resume for [**Data Analyst Roles**](Resume_MZ_da.pdf)\
-📙 Resume for [**Software Engineering Roles**](Resume_MZ_da.pdf)
+📙 Resume for [**Software Engineering Roles**](Resume_MZ_sde.pdf)
 
 ### Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=#white)](https://www.linkedin.com/in/sam-zhang-mengyu/)
