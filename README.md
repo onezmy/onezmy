@@ -4,8 +4,9 @@
 ****
 
 ### Resume 
-📗 Resume for [**Data Scientist Roles**](Resume_MZ_ds.pdf) \
-📘 Resume for [**Data Analyst Roles**](Resume_MZ_da.pdf)
+📗 Resume for [**Data Science Roles**](Resume_MZ_ds.pdf) \
+📘 Resume for [**Data Analyst Roles**](Resume_MZ_da.pdf)\
+📙 Resume for [**Software Engineering Roles**](Resume_MZ_da.pdf)
 
 ### Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=#white)](https://www.linkedin.com/in/sam-zhang-mengyu/)
@@ -23,9 +24,9 @@
 
 
 🔭 I'm currently seeking full-time DS/DA/SDE roles for New Grad/Entry Level.\
-✏️ I'm currently learning AWS Certified Cloud Practitioner Certificate Exam.\
+✏️ I'm currently learning for AWS Certified Cloud Practitioner Certificate Exam.\
 🌱 I’m currently working on personal projects to explore Stable Diffusion with LoRA.\
-👾 I'm currently struggling with Dead Cells 5 Boss Cells.
+👾 I'm currently playing Remnant II.
 
 ****
 ### Skills
