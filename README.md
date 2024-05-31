@@ -25,7 +25,7 @@
 
 🔭 I'm currently seeking full-time DS/DA/SDE roles for New Grad/Entry Level.\
 ✏️ I'm currently learning for AWS Certified Cloud Practitioner Certificate Exam.\
-🌱 I’m currently exploring QR Code design with ControlNet using Stable Diffusion.[samples](https://www.flickr.com/photos/200135609@N02/)\
+🌱 I’m currently exploring QR Code design with ControlNet using Stable Diffusion. Check some [samples](https://www.flickr.com/photos/200135609@N02/)!\
 👾 I'm currently playing Remnant II.
 
 ****
