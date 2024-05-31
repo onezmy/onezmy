@@ -73,7 +73,8 @@
       ![django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
     
   - Other:
-      
+    
+      ![Latex](https://img.shields.io/badge/LaTex-008080?style=flat&logo=latex&logoColor=white)
       ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white)
       ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
       ![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white)
@@ -81,7 +82,7 @@
       ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
       ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
       ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
-      ![Latex](https://img.shields.io/badge/LaTex-008080?style=flat&logo=latex&logoColor=white)
+      
 - Interests:
   Machine Learning, Deep Learning, Data Mining, Optimization, Data Science, Data Analysis, Data Visualization, Data Structure
 
