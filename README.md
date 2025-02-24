@@ -3,9 +3,7 @@
 
 ****
 
-### Resume 
-📗 Resume for [**Data Science Roles**](Resume_MZ_ds.pdf) \
-📘 Resume for [**Data Analyst Roles**](Resume_MZ_da.pdf)\
+
 📙 Resume for [**Software Engineering Roles**](Resume_MZ_sde.pdf)
 
 ### Connect with Me:
