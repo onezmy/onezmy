@@ -4,7 +4,7 @@
 ****
 
 
-📙 Resume for [**Software Engineering Roles**](Resume_MZ_sde.pdf)
+📙 [**Resume for Software Engineering**](Resume_MZ_sde.pdf)
 
 ### Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=#white)](https://www.linkedin.com/in/sam-zhang-mengyu/)
@@ -15,16 +15,9 @@
 ****
 ### About Me
 
-🎓 M.S.E Data Science | Johns Hopkins University\
-🎓 B.S. Applied Mathematics & Statistics | University of California, Los Angeles\
-📑 Data Science Certificate | UCLA Extension
-
-
-
-🔭 I'm currently seeking full-time DS/DA/SDE roles for New Grad/Entry Level.\
-✏️ I'm currently learning for AWS Certified Cloud Practitioner Certificate Exam.\
+🔭 I'm currently exploring SWE roles for junior Level.\
 🌱 I’m currently exploring QR Code design with ControlNet using Stable Diffusion. Check some [samples](https://www.flickr.com/photos/200135609@N02/)!\
-👾 I'm currently playing Remnant II.
+👾 I'm currently playing Hades II.
 
 ****
 ### Skills
