@@ -4,7 +4,7 @@
 ****
 
 
-📙 [**Resume for Software Engineering**](Resume_MZ_sde.pdf)
+📙 [**Resume for Software Engineering**](Resume_MZ.pdf)
 
 ### Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=#white)](https://www.linkedin.com/in/sam-zhang-mengyu/)
@@ -15,7 +15,7 @@
 ****
 ### About Me
 
-🔭 I'm currently exploring SWE roles for junior Level.\
+🔭 I'm currently exploring Software Engineer roles for junior Level.\
 🌱 I’m currently exploring QR Code design with ControlNet using Stable Diffusion. Check some [samples](https://www.flickr.com/photos/200135609@N02/)!\
 👾 I'm currently playing Hades II.
 
