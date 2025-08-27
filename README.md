@@ -18,6 +18,25 @@
 👾 I'm currently playing Some Random Games(Add my steam!).
 
 ****
+<table>
+  <tr>
+    <!-- 左边大图 -->
+    <td>
+      <img src="resource/4.jpg" width="400">
+    </td>
+    <!-- 右边三张小图 -->
+    <td>
+      <img src="resource/2.jpg" width="200"><br>
+      <img src="resource/3.jpg" width="200"><br>
+      <img src="resource/1.jpg" width="200">
+    </td>
+  </tr>
+</table>
+
+
+
+
+****
 ### Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onezmy&layout=compact&theme=shadow_green)
 - Programming Languages:
