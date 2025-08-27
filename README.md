@@ -4,8 +4,6 @@
 ****
 
 
-📙 [**Resume for Software Engineering**](Resume_MZ.pdf)
-
 ### Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=#white)](https://www.linkedin.com/in/sam-zhang-mengyu/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=#white)](https://github.com/onezmy)
@@ -15,9 +13,9 @@
 ****
 ### About Me
 
-🔭 I'm currently exploring Software Engineer roles for junior Level.\
+🔭 I'm currently exploring Software Engineer roles.\
 🌱 I’m currently exploring QR Code design with ControlNet using Stable Diffusion. Check some [samples](https://www.flickr.com/photos/200135609@N02/)!\
-👾 I'm currently playing Hades II.
+👾 I'm currently playing Some Random Games(Add my steam!).
 
 ****
 ### Skills
@@ -59,10 +57,5 @@
       ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
       ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
       ![scipy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
-    
-
 
   ****
-  ![Contributions in 3D](/profile-3d-contrib/profile-south-season-animate.svg)
-
- 
