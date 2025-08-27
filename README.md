@@ -14,21 +14,32 @@
 ### About Me
 
 🔭 I'm currently exploring Software Engineer roles.\
-🌱 I’m currently exploring QR Code design with ControlNet using Stable Diffusion. Check some [samples](https://www.flickr.com/photos/200135609@N02/)!\
+🌱 I’m currently exploring QR Code design with ControlNet using Stable Diffusion.
 👾 I'm currently playing Some Random Games(Add my steam!).
 
 ****
+Check some [samples](https://www.flickr.com/photos/200135609@N02/)!
 <table>
   <tr>
     <!-- 左边大图 -->
     <td>
       <img src="resource/4.jpg" width="400">
     </td>
-    <!-- 右边三张小图 -->
+    <!-- 左边三张小图 -->
     <td>
       <img src="resource/2.jpg" width="200"><br>
       <img src="resource/3.jpg" width="200"><br>
       <img src="resource/1.jpg" width="200">
+    </td>
+      <!-- 右边三张小图 -->
+    <td>
+      <img src="resource/6.jpg" width="200"><br>
+      <img src="resource/5.jpg" width="200"><br>
+      <img src="resource/7.jpg" width="200">
+    </td>
+        <!-- 右边大图 -->
+    <td>
+      <img src="resource/8.jpg" width="400">
     </td>
   </tr>
 </table>
